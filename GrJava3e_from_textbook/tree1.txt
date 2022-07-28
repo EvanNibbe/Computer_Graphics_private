@@ -1,0 +1,15 @@
+"F"                     // Axiom
+"F[+F]F[-F]F"           // strF
+""                      // strf
+""                      // strX
+""                      // strY
+""                      // strU
+""                      // strV
+25.7   // Rotation
+90     // Start in direction east
+0.5    // Start at x = 0.5 * width 
+0.05   // Start at y = 0.5 * height 
+0.7    // Initial factor for length
+0.34    // Reduction factor
+
+
